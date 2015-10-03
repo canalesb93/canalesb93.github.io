@@ -9,11 +9,11 @@ baseurl: "/daktilo/" # the subpath of your site, e.g. /blog/
 url: "http://hitchhiker.ma" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
-  # disqus: your_disqus_username
+  fullname: Ricardo Canales
+  # googleplus: https://www.google.com/+MotaquillahMaddane
+  github: canalesb93
+  # twitter: electrik_frog
+  disqus: canalesb93
 
 # google_analytics: 'UA-XXXXXXXX-X'
 
