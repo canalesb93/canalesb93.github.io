@@ -1,5 +1,8 @@
-- slug: design
-  name: Design
+- slug: tech
+  name: Tech
+
+- slug: projects
+  name: Projects
 
 - slug: tools
   name: Tools
