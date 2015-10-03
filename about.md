@@ -5,8 +5,6 @@ subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+While studying in the Monterrey Institute of Technology and Higher Education for a degree in Software Engineering and Computer Science I've set my goal to create and contribute to innovative projects while accumulating experience and good work practices. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I have been to over 10 Hackathon competitions around Mexico and the United States where I've learned some of the best work practices and have had the opportunity to collaborate with awesome people. I've expanded my programming experience to over 15 languages and frameworks through multiple personal and collaborative projects.
