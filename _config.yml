@@ -13,7 +13,7 @@ author:
   # twitter: electrik_frog
   disqus: canalesb93
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-68453825-1'
 
 # Build settings
 markdown: kramdown
