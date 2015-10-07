@@ -3,7 +3,7 @@ layout: post
 title:  "A New Home..."
 subtitle: "What I'll do with it!"
 date:   2015-10-03 23:56:45
-categories: [tool]
+categories: [tools]
 ---
 
 Hey, if you've ever been to my portofolio before you'll noticed it's changed. I ran out of credit for my DigitalOcean server so I changed to a free alternative.

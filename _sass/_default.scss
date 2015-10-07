@@ -309,11 +309,12 @@ strong {
     text-align: center;
     vertical-align: middle;
     font-size: 20px;
-    border: 3px solid #828282;
+    border: 2px solid #828282;
     border-radius: 10px;
     min-height: 50px;
     line-height: 50px;
     position: relative;
+    margin-bottom: 10px;
     a {
         span { 
           position:absolute; 
@@ -330,4 +331,17 @@ strong {
           // background-image: url('empty.gif');
         } 
     }
+}
+
+ul {
+    font-size: 20px;
+}
+
+code {
+    background-color: #002b36;
+    color: rgb(131, 148, 150);
+    padding: 1px 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
 }

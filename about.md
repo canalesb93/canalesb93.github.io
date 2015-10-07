@@ -19,3 +19,5 @@ If you are interested in viewing my CV you can do so [here](https://drive.google
 And to my linkedin [here](https://www.linkedin.com/in/canalesb93).
 
 <div class="link-box"><a href="https://www.linkedin.com/in/canalesb93"><span></span>Profile [LinkedIn]</a></div>
+
+Or contact me at: **canalesb93@gmail.com**
