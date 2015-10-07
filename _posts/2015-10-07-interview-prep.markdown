@@ -13,7 +13,7 @@ I spent a large part of my summer preparing for tech interviews so I could spend
 
 # Material
 
-## [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+## [Cracking the Coding Interview <i class="fa fa-link"></i>](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 I knew for a while that I was gonna get a Facebook interview so I started by preparing for that one. I started by reading [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) by **Gayle Laakmann**. A lot of people asked me if I solved all the problems, I did not *solve* them all, however I did make sure I understood them all. Problems are pretty well chosen and even though you may think you won't get *that* problem, the topics they cover are important. I personally think it's a good idea to buy a notebook and start doing some of the problems in there. I organized by topic and wrote solutions to problems I think are important and also approaches about the topic that are pretty common in problems.
 
 ###Topics I read from the book include:
@@ -37,14 +37,16 @@ I knew for a while that I was gonna get a Facebook interview so I started by pre
 The book also has a really nice part about each company, which will help you understand how their interviews differ from each other.
 
 
-## [Leetcode](http://leetcode.com)
-
+## [Leetcode <i class="fa fa-link"></i>](http://leetcode.com)
 After I was done with the book, I started doing problems from [Leetcode](http://leetcode.com). I started with easy ones, and eventually I made the good habit of simply opening the page and choosing a random problem and try to solve it.
+
+## [Glassdoor <i class="fa fa-link"></i>](http://glassdoor.com)
+Looking for interview questions at [Glassdoor](http://glassdoor.com) helped me find popular problems that *facebook* was using and getting a general idea of how difficult the problem may be.
 
 ## Mock Interviews
 Simulating interviews with friends helped me a lot. This is probably the step most people skip before actually interviewing. I practiced interviewing with 2 friends about 10 to 15 times. **The 3 of us got internship offers.** Seriously, just grab a friend and a whiteboard and start throwing problems at each other.
 
-## [Pramp](http://www.pramp.com)
+## [Pramp <i class="fa fa-link"></i>](http://www.pramp.com)
 After my first interview with *Facebook* I recieved positive feedback and was told I'd have my second round in 2 weeks. I decided to double my effort and started scheduling practice interviews at [Pramp](http://www.pramp.com). Pramp will schedule an interview with someone else who is also interviewing. You will both interview each other and then give feedback. This step is a hard one, interviews are stressful, and I decided scheduled 3 at Pramp before my actual interview. It's tiring but pramp gave me a wider perspective and helped me understand what aspects I needed to improve.
 
 Interviewing with strangers is different than interviewing with a friend. Usually you will know nothing about your who will be your interviewer. So Pramp will help you get used to this.
@@ -84,4 +86,5 @@ Good luck preparing and remember to have fun!
 ## Resources
 <div class="link-box"><a href="http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X"><span></span>Cracking the Coding Interview [Amazon]</a></div>
 <div class="link-box"><a href="http://leetcode.com"><span></span>Leetcode [Site]</a></div>
+<div class="link-box"><a href="http://glassdoor.com"><span></span>Glassdoor [Site]</a></div>
 <div class="link-box"><a href="http://pramp.com"><span></span>Pramp [Site]</a></div>
