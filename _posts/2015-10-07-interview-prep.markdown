@@ -7,7 +7,7 @@ categories: [tools, tech, productivity]
 ---
 
 # Introduction
-I spent a large part of my summer preparing for tech interviews so I could spend my last summer at an internship. I prepared for different companies such as `Facebook`, `Microsoft` and `Google`. As of October 6, I've recieved an internship offer at Facebook and Microsoft is looking to fly me to Seattle for onsite interviews this weekend. I'm not a interviewee expert but here's what I can share from my experience.
+I spent a large part of my summer preparing for tech interviews so I could spend my last summer at an internship. I prepared for different companies such as `Facebook`, `Microsoft` and `Google`. As of October 6, I've recieved an internship offer at Facebook and Microsoft is looking to fly me to Seattle for onsite interviews this weekend(**UPDATE[10/23]**: recieved offer). I'm not a interviewee expert but here's what I can share from my experience.
 
 ---
 
